@@ -218,7 +218,8 @@ Given that vulnerabilities in P1 level may affect the progress of Bug Bounty Pro
 
 #### :warning: Attention:warning:
 
-KuChain may be reset and dropped due to some vulnerabilities' repairation during the program. Vulnerabilities found in these cases will be considered invalid. 
+- KuChain may be reset and dropped due to some vulnerabilities' repairation during the program. Vulnerabilities found in these cases will be considered invalid. 
+- Vulnerabilities which have already known by Cosmos-SDK will be considered invalid.
 
 
 
