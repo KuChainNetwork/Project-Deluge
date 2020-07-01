@@ -18,7 +18,7 @@ This bounty brief describes the rules of KuChain Betanet Bug Bounty Program, as 
 
 Vulnerabilities submitted before UTC+8 2020.07.01 10:00am and after UTC+8 2020.07.31 10:00am will be considered invalid. 
 
-Please upload your vulnerability report in KuChain GitHub repository - [***Project Deluge***](https://github.com/KuChainNetwork/Project-Deluge).
+Please upload your vulnerability report in KuChain GitHub repository - [***Project Deluge(Issues)***](https://github.com/KuChainNetwork/Project-Deluge/issues).
 
 
 
