@@ -2,7 +2,7 @@
 Identifying technical vulnerabilities
 
 ---
-### Announcement: [here](https://github.com/KuChainNetwork/Project-Deluge/blob/master/announcement/announcement001.md);
+### Announcement: [here](https://github.com/KuChainNetwork/Project-Deluge/blob/master/announcement/announcement002.md);
 
 
 ---
