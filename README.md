@@ -90,7 +90,7 @@ Severity is decided by likelihood and impact with four levels: critical, severe,
 
 #### KuChain Resources
 
-:information_source:KuChain API Documentation : coming soon.
+:information_source:KuChain API Documentation : [here](https://github.com/KuChainNetwork/docs)
 
 :information_source:KuChain Betanet Faucet : coming soon.
 
