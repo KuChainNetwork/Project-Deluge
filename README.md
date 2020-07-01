@@ -104,7 +104,7 @@ Severity is decided by likelihood and impact with four levels: critical, severe,
 
 #### In Scope:
 
-:information_source: coming soon.
+:information_source: https://github.com/KuChainNetwork/kratos
 
 
 
