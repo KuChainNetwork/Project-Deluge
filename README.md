@@ -96,7 +96,7 @@ Severity is decided by likelihood and impact with four levels: critical, severe,
 
 :information_source:KuChain Block Explorer: coming soon.   
 
-:information_source:KuChain White Paper (to be released by phases) ：coming soon.
+:information_source:Draft White Paper (to be released by phases) ：[here](https://github.com/KuChainNetwork/docs/blob/master/whitepaper/en/kratos.md)
 
 
 ---
