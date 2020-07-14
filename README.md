@@ -92,9 +92,9 @@ Severity is decided by likelihood and impact with four levels: critical, severe,
 
 :information_source:KuChain API Documentation : [here](https://github.com/KuChainNetwork/docs)
 
-:information_source:KuChain Betanet Faucet : coming soon.
+:information_source:KuChain Betanet Faucet :  [here](https://beta.kuchain.network)
 
-:information_source:KuChain Block Explorer: coming soon.   
+:information_source:KuChain Block Explorer:  [here](https://explorer.kuchain.network)
 
 :information_source:Draft White Paper (to be released by phases) ：[here](https://github.com/KuChainNetwork/docs/blob/master/whitepaper/en/kratos.md)
 
