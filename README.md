@@ -2,11 +2,11 @@
 Identifying technical vulnerabilities
 
 ---
-### Announcement: [here](https://github.com/KuChainNetwork/Project-Deluge/blob/master/announcement/announcement002.md);
+### Announcement: [here](https://github.com/KuChainNetwork/Project-Deluge/blob/master/announcement/announcement003.md);
 
 
 ---
-![kuChainDeluge](https://github.com/KuChainNetwork/Project-Deluge/blob/master/imgs/kuChainDeluge.jpg?raw=true)
+![kuChainDeluge](https://github.com/KuChainNetwork/Project-Deluge/blob/master/imgs/KuChainBetanetCoverOther.jpg?raw=true)
 
 ### KuChain Betanet Bug Bounty Program Rule 
 
@@ -14,9 +14,9 @@ This bounty brief describes the rules of KuChain Betanet Bug Bounty Program, as 
 
 
 
-:point_right: Program duration: ***UTC+8 2020.07.01 10:00am - 2020.07.31 10:00am***. 
+:point_right: Program duration: ***UTC+8 2020.07.01 10:00am - 2020.08.07 10:00am***. 
 
-Vulnerabilities submitted before UTC+8 2020.07.01 10:00am and after UTC+8 2020.07.31 10:00am will be considered invalid. 
+Vulnerabilities submitted before UTC+8 2020.07.01 10:00am and after UTC+8 2020.08.07 10:00am will be considered invalid. 
 
 Please upload your vulnerability report in KuChain GitHub repository - [***Project Deluge(Issues)***](https://github.com/KuChainNetwork/Project-Deluge/issues).
 
